@@ -1,0 +1,4 @@
+F:\psaConverter\psaDualAngleConverter\bin\Debug\psaConverter.exe.config
+F:\psaConverter\psaDualAngleConverter\obj\Debug\psaConverter.exe
+F:\psaConverter\psaDualAngleConverter\obj\Debug\psaConverter.pdb
+F:\psaConverter\psaDualAngleConverter\bin\Debug\psaDualAngleConverter.exe.config

@@ -1,0 +1,9 @@
+D:\WORK\Desktop\psaConverter\psaConverter\bin\Debug\psaConverter.exe.config
+D:\WORK\Desktop\psaConverter\psaConverter\bin\Debug\psaConverter.exe
+D:\WORK\Desktop\psaConverter\psaConverter\bin\Debug\psaConverter.pdb
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Debug\psaConverter.csprojResolveAssemblyReference.cache
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Debug\psaConverter.Form1.resources
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Debug\psaConverter.Properties.Resources.resources
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Debug\psaConverter.csproj.GenerateResource.Cache
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Debug\psaConverter.exe
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Debug\psaConverter.pdb

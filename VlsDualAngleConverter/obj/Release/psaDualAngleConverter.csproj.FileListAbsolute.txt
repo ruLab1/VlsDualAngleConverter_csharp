@@ -1,0 +1,9 @@
+F:\psaConverter\psaDualAngleConverter\bin\Release\psaDualAngleConverter.exe.config
+F:\psaConverter\psaDualAngleConverter\bin\Release\psaDualAngleConverter.exe
+F:\psaConverter\psaDualAngleConverter\bin\Release\psaDualAngleConverter.pdb
+F:\psaConverter\psaDualAngleConverter\obj\Release\psaDualAngleConverter.csprojResolveAssemblyReference.cache
+F:\psaConverter\psaDualAngleConverter\obj\Release\psaConverter.Form1.resources
+F:\psaConverter\psaDualAngleConverter\obj\Release\psaDualAngleConverter.Properties.Resources.resources
+F:\psaConverter\psaDualAngleConverter\obj\Release\psaDualAngleConverter.csproj.GenerateResource.Cache
+F:\psaConverter\psaDualAngleConverter\obj\Release\psaDualAngleConverter.exe
+F:\psaConverter\psaDualAngleConverter\obj\Release\psaDualAngleConverter.pdb

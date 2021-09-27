@@ -1,0 +1,8 @@
+D:\WORK\Desktop\psaConverter\psaConverter\bin\Release\psaConverter.exe.config
+D:\WORK\Desktop\psaConverter\psaConverter\bin\Release\psaConverter.exe
+D:\WORK\Desktop\psaConverter\psaConverter\bin\Release\psaConverter.pdb
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Release\psaConverter.Form1.resources
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Release\psaConverter.Properties.Resources.resources
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Release\psaConverter.csproj.GenerateResource.Cache
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Release\psaConverter.exe
+D:\WORK\Desktop\psaConverter\psaConverter\obj\Release\psaConverter.pdb

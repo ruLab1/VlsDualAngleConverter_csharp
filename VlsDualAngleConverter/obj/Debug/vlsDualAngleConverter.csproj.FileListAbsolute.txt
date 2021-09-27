@@ -1,0 +1,2 @@
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\bin\Debug\psaDualAngleConverter.exe.config
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\bin\Debug\VlsDualAngleConverter.exe.config

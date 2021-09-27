@@ -1,0 +1,9 @@
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\bin\Release\VlsDualAngleConverter.exe.config
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\bin\Release\VlsDualAngleConverter.exe
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\bin\Release\VlsDualAngleConverter.pdb
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\vlsDualAngleConverter.csprojResolveAssemblyReference.cache
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\psaConverter.Form1.resources
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\VlsDualAngleConverter.Properties.Resources.resources
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\vlsDualAngleConverter.csproj.GenerateResource.Cache
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\VlsDualAngleConverter.exe
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\VlsDualAngleConverter.pdb
