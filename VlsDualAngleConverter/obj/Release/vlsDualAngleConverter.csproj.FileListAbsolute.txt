@@ -7,3 +7,7 @@ D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\VlsDualA
 D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\vlsDualAngleConverter.csproj.GenerateResource.Cache
 D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\VlsDualAngleConverter.exe
 D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\VlsDualAngleConverter.pdb
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\bin\Release\VlsDualAngleConverter.exe.manifest
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\bin\Release\VlsDualAngleConverter.application
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\VlsDualAngleConverter.exe.manifest
+D:\WORK\Desktop\VlsDualAngleConverter\vlsDualAngleConverter\obj\Release\VlsDualAngleConverter.application

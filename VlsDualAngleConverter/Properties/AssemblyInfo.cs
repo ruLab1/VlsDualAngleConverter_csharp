@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("VlsDualAngleConverter")]
 [assembly: AssemblyDescription("VlsDualAngleConverter")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ru38")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("VlsDualAngleConverter")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
-[assembly: AssemblyTrademark("ru38")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // ComVisible을 false로 설정하면 이 어셈블리의 형식이 COM 구성 요소에 
