@@ -38,15 +38,30 @@ namespace psaConverter
                 Psatopap = Math.Acos(Math.Cos(DegreeToRadian(decimal.ToDouble(numDrill.Value))) * Math.Sin(decimal.ToDouble(numPintopap2.Value) * Math.PI / 13.5)) * 13.5 / Math.PI;
                 //=ACOS(COS(RADIANS(B7))*SIN(B8*PI()/13.5))*13.5/PI()
             }
-            catch { }
+            catch {  }
             try
             {
                 PinBuffer = Math.Asin(Math.Sin(DegreeToRadian(decimal.ToDouble(numVal.Value))) * Math.Sin(decimal.ToDouble(numPintopap2.Value) * Math.PI / 13.5)) * 13.5 / Math.PI;
                 //=ASIN(SIN(RADIANS(B9))*SIN(B8*PI()/13.5))*13.5/PI()
             }
-            catch { }
-            numPsatopap.Value = decimal.Parse( Psatopap.ToString());
-            numPinbuffer.Value = decimal.Parse(PinBuffer.ToString());
+            catch {  }
+
+            try
+            {
+                numPsatopap.Value = decimal.Parse(Psatopap.ToString());
+            }
+            catch
+            {
+                numPsatopap.Value = 0;
+            }
+            try
+            {
+                numPinbuffer.Value = decimal.Parse(PinBuffer.ToString());
+            }
+            catch
+            {
+                numPinbuffer.Value = 0;
+            }
         }
 
         private void btn_toDual_Click(object sender, EventArgs e)
@@ -66,9 +81,20 @@ namespace psaConverter
                 valValue = 180 / Math.PI * Math.Asin(Math.Sin(decimal.ToDouble(numPinbuffer.Value) * Math.PI / 13.5) / Math.Sin(decimal.ToDouble(numPintopap.Value) * Math.PI / 13.5));
                 //=180/PI()*ASIN(SIN(B3*PI()/13.5)/SIN(B1*PI()/13.5))
             }
-            catch { }
-            numVal.Value = decimal.Parse(valValue.ToString());
-            numDrill.Value = decimal.Parse(drillValue.ToString());
+            catch {}
+
+            try
+            {
+                numVal.Value = decimal.Parse(valValue.ToString());
+            }
+            catch
+            { numVal.Value = 0; }
+            try
+            {
+                numDrill.Value = decimal.Parse(drillValue.ToString());
+            }
+            catch
+            { numDrill.Value = 0; }
         }
 
         private void button2_Click(object sender, EventArgs e)
